@@ -1,0 +1,13 @@
+{
+    "Hybrid_Model": "AIS + GA Optimized MLP",
+    "Accuracy": 97.58,
+    "Precision": 97.4,
+    "Recall": 97.62,
+    "F1_Score": 97.49,
+    "RMSE": 0.492,
+    "R2_Score": 0.915,
+    "Best_Params": {
+        "hidden": 200,
+        "lr": 0.00274912721171008
+    }
+}
